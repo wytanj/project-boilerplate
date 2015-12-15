@@ -14,5 +14,6 @@ The package includes:
 ## Usage:
 
 1. Clone this repo
+2. Customize dependencies in `package.json` according to need
 2. `npm update --save` to install latest version of dependencies and save latest versions in `package.json`
 3. Go forth and write codes
